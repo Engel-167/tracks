@@ -50,7 +50,6 @@ packages:
   - 'orca'
   - 'rygel'
   - 'simple-scan'
-  - 'snapshot'
   - 'sushi'
   - 'tecla'
   - 'showtime'
